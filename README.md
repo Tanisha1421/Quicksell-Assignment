@@ -35,7 +35,7 @@ This project integrates with the API from [https://api.quicksell.co/v1/internal/
    git clone https://github.com/Tanisha1421/Quicksell-Assignment.git
 2. Navigate to the project directory:
    ```bash
-   cd Quicksell Assignment
+   cd kanban-board
 3. Install dependencies:
    ```bash
    npm install
